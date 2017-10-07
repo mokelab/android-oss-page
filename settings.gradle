@@ -1,1 +1,1 @@
-include ':oss'
+include ':oss', ':demo'
